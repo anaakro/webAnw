@@ -18,7 +18,7 @@ public class BeanBeispielApplication {
 
 			@Override
 			public void run(String... args) throws Exception {
-				System.out.println("123");				
+				System.out.println("sdfg");				
 			}
 			
 		};
